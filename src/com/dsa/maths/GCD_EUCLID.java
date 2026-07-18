@@ -2,7 +2,7 @@ package com.dsa.maths;
 
 import java.util.Scanner;
 
-public class Euclid_GCD {
+public class GCD_EUCLID {
 	
 	public static int gcd(int a, int b)
 	{
