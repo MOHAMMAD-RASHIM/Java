@@ -2,6 +2,12 @@ package com.dsa.maths;
 
 import java.util.Scanner;
 
+
+
+/*
+ * TIME COMPLEXITY: O(log(n))
+ */
+
 public class GCD_Optimized_Euclid {
 	
 	static int gcd(int a,int b)

@@ -3,6 +3,10 @@ package com.dsa.maths;
 import java.util.Scanner;
 
 /*
+ * TIME COMPLEXITY: O(MIN(a,b))
+ */
+
+/*
  * Program to find the gcd or hcf of 2 numbers
  * eg: 9 6
  * factors of 9: 1,3,9

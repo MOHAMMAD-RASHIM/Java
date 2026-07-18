@@ -1,6 +1,9 @@
 package com.dsa.maths;
 
 import java.util.Scanner;
+/*
+ * TIME COMPLEXITY: O(MAX(a,b))
+ */
 
 public class GCD_EUCLID {
 	
